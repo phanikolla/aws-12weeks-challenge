@@ -1,5 +1,7 @@
 # Lets dive in to working on an Auto Scaling lab for AWS. 
 
+![image](https://github.com/user-attachments/assets/aae223d9-a317-49d5-8851-94c904ae7597)
+
 ![alt text](image-1.png)
 
 AWS Auto Scaling helps you manage your applications by automatically adjusting the number of resources to keep performance steady and costs low. It’s easy to set up and can scale various resources like EC2 instances, ECS tasks, DynamoDB tables, and Aurora databases.
