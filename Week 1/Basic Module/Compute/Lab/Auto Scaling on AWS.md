@@ -6,6 +6,7 @@
 
 AWS Auto Scaling helps you manage your applications by automatically adjusting the number of resources to keep performance steady and costs low. It’s easy to set up and can scale various resources like EC2 instances, ECS tasks, DynamoDB tables, and Aurora databases.
 
+
 This lab shows you how to use EC2 Auto Scaling during busy times with a custom AMI.
 
 First, you’ll learn to create an Amazon Machine Image (AMI) from a web host made with CloudFormation.
