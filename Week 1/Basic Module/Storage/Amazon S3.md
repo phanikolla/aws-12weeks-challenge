@@ -7,7 +7,7 @@ It can be used to store and retrieve any amount of data, at any time, from anywh
 This lab is designed to give you some experience interacting with the S3 service through the AWS Console and demonstrate the use case of securely accessing objects within a private S3 bucket through an EC2 web host.
 
 # This lab will walk you through the following:
-•  a bucket in S3
+• Creating a bucket in S3
 • Adding objects to your S3 bucket
 • Working with objects in the S3 Console
 • Accessing objects stored in S3
