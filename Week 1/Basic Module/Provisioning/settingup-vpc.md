@@ -2,6 +2,8 @@
 
 Our First step is to create a simple VPC using CloudFormation
 
+![alt text](image-3.png)
+
 1) Open a text editor and create an empty YAML File called sfid-cfn-vpc.yaml
 2) Copy and paste the sample CloudFormation template below that defines a VPC and save the file.
 
